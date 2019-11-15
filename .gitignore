@@ -1,0 +1,13 @@
+*.iml
+
+target/
+
+.idea/
+pom\.xml\.versionsBackup
+
+\.settings/
+
+\.classpath
+
+\.project
+node_modules
